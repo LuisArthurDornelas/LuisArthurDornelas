@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LuisArthurDornelas
 - 👀 I’m interested in expanding my coding knowledge 
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Ruby on Rails, Angular and .NET
 - 💞️ I’m looking to collaborate on anything that caughts my attencion!
 - 📫 How to reach me: ladccc@cesar.school
